@@ -9,5 +9,7 @@ package taller;
  * @author Home
  */
 public class Notificacion {
-    
+    public void notificarUsuario(){
+        
+    }
 }

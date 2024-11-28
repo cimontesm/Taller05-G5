@@ -9,5 +9,16 @@ package taller;
  * @author Home
  */
 public class Task {
+
+    public void addObserver(Observer o){
+        
+    }
     
+    public void removeObserver(Observer o){
+        
+    }
+    
+    public void notifyIbserver(){
+        
+    }
 }

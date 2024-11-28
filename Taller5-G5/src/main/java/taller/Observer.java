@@ -9,5 +9,6 @@ package taller;
  * @author Home
  */
 public interface Observer {
+    public void update (String mensaje);
     
 }
