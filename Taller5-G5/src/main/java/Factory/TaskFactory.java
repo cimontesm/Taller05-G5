@@ -9,5 +9,6 @@ package Factory;
  * @author Thomas Burgos
  */
 public interface TaskFactory {
-     Task createTask(String details);
+
+    Task createTask(String details);
 }

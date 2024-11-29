@@ -13,5 +13,6 @@ import Factory.Task;
 import java.util.List;
 
 public interface TaskViewStrategy {
+
     void displayTasks(List<Task> tasks);
 }

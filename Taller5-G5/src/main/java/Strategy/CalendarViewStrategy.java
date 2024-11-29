@@ -13,7 +13,9 @@ import Factory.Task;
 import java.util.List;
 
 public class CalendarViewStrategy implements TaskViewStrategy {
+
     @Override
     public void displayTasks(List<Task> tasks) {
+        // do something
     }
 }

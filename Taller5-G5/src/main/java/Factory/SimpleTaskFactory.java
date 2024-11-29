@@ -9,6 +9,7 @@ package Factory;
  * @author Thomas Burgos
  */
 public class SimpleTaskFactory implements TaskFactory {
+
     @Override
     public Task createTask(String details) {
         Task task = new SimpleTask();

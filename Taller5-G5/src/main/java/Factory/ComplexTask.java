@@ -8,9 +8,7 @@ package Factory;
  *
  * @author Thomas Burgos
  */
-
 public class ComplexTask extends Task {
-    
 
     @Override
     public String getDetails() {

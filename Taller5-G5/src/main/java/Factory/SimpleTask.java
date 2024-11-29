@@ -9,6 +9,7 @@ package Factory;
  * @author Thomas Burgos
  */
 public class SimpleTask extends Task {
+
     @Override
     public String getDetails() {
         return "Detalles de Tarea";

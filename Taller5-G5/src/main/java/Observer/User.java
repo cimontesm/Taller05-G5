@@ -9,6 +9,7 @@ package Observer;
  * @author Thomas Burgos
  */
 public class User {
+
     private String name;
     private String email;
     private String phone;
@@ -22,4 +23,3 @@ public class User {
     public void update(String notification) {
     }
 }
-

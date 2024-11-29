@@ -10,11 +10,11 @@ package Observer;
  */
 import Factory.Task;
 
-
 public class NotificationCenter {
-    public void addSubscriber(Task task, User user) { 
+
+    public void addSubscriber(Task task, User user) {
     }
 
-    public void notify(Task task, String message) {   
+    public void notify(Task task, String message) {
     }
 }

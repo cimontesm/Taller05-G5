@@ -11,6 +11,7 @@ package Factory;
 import java.util.Date;
 
 public abstract class Task {
+
     protected String name;
     protected int priority;
     protected Date dueDate;
@@ -18,5 +19,6 @@ public abstract class Task {
     public abstract String getDetails();
 
     public void markComplete() {
+        // do something
     }
 }
